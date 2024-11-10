@@ -1,0 +1,8 @@
+total 28
+drwxr-xr-x 3 giu09 giu09 4096 Oct 31 08:36 CEN0336_2023_11785188_Python05
+drwxr-xr-x 3 giu09 giu09 4096 Nov 10 14:52 CEN0336_PROJETO_FINAL
+drwxr-xr-x 5 giu09 giu09 4096 Oct 28 14:56 Documentos
+drwxr-xr-x 2 giu09 giu09 4096 Aug 25 19:07 Downloads
+drwxr-xr-x 2 giu09 giu09 4096 Aug 25 17:24 Imagens
+-rwxr-xr-x 1 giu09 giu09  225 Nov 10 14:34 bash_script.sh
+-rw-r--r-- 1 giu09 giu09  422 Nov 10 14:35 lista_HOME.txt
